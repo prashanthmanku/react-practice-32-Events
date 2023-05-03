@@ -1,0 +1,31 @@
+.event-item-container {
+  width: 45%;
+  max-width: 300px;
+  margin-bottom: 5px;
+}
+.event-img {
+  width: 100%;
+}
+.event-name {
+  color: #f8fafc;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+.event-location {
+  color: #f8fafc;
+  font-size: 13px;
+  font-weight: 400;
+  margin-top: 0px;
+}
+.item-border {
+  border: 1px solid #2dd4bf;
+  border-radius: 10px;
+}
+.img-button {
+  padding: 0px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}

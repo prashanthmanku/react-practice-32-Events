@@ -1,0 +1,74 @@
+.active-event-container {
+  width: 40%;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  min-height: 100vh;
+}
+.active-event-width-container {
+  width: 90%;
+  display: flex;
+  /* justify-content: center; */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin: auto;
+  height: 100vh;
+}
+.initial-text {
+  text-align: center;
+  font-size: 15px;
+  color: #64748b;
+  font-weight: 500;
+  line-height: 25px;
+}
+.register-container {
+  align-self: center;
+  text-align: center;
+}
+.yet-to-register-img {
+  width: 90%;
+}
+.register-text {
+  color: #64748b;
+  font-size: 15px;
+  font-weight: 400;
+}
+.register-btn {
+  background-color: #0967d2;
+  color: #ffffff;
+  width: 100%;
+  padding: 5px 0px;
+  border: none;
+  border-radius: 4px;
+}
+
+.already-register-container {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.registered-img {
+  width: 100px;
+}
+.registered-tex {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+}
+.registrations-closed-container {
+  align-self: center;
+  text-align: center;
+}
+.registrations-closed-img {
+  width: 80%;
+}
+.registrations-closed-heading {
+  color: #323f4b;
+  font-size: 20px;
+  font-weight: 600;
+}
+.registrations-closed-description {
+  color: #64748b;
+  font-size: 15px;
+  line-height: 20px;
+}
